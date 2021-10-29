@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Perez
 - 👀 I’m interested in ... Automation Technology
-- 🌱 I’m currently learning ... Robocorp Labs Automation Platform - Python based
+- 🌱 I’m currently learning ... Robocorp Labs Automation Platform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
